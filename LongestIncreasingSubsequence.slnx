@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/LongestIncreasingSubsequence.Cli/LongestIncreasingSubsequence.Cli.csproj" />
+    <Project Path="src/LongestIncreasingSubsequence/LongestIncreasingSubsequence.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/LongestIncreasingSubsequence.Tests/LongestIncreasingSubsequence.Tests.csproj" />
+  </Folder>
+</Solution>
